@@ -1,3 +1,3 @@
-# express-using-react-boilerplace
+# express-using-react-boilerplate
 ExpressJS
 ReactJS
